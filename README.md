@@ -1,2 +1,3 @@
 # Projeto-de-MeM-
 Projeto do trabalho de modelos e metodos
+Será criada uma plataforma destinada a reunir e administrar as principais ferramentas utilizadas na engenharia de software.Seu propósito é facilitar o trabalho dos desenvolvedores em todas as etapas do processo de criação de software, desde a concepção e definição de requisitos até o acompanhamento de projetos e testes O foco é na integração de recursos para modelagem de processos, gestão e validação de requisitos, testes de software, prototipagem e suporte a metodologias ágei com o intuito de estabelecer um ambiente acessível e proveitoso para o desenvolvimento de qualquer tipo de aplicativo.
