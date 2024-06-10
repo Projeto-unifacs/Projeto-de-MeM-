@@ -25,7 +25,7 @@ O processo de idealização da interface foi elaborado utilizando a plataforma F
 ![WhatsApp Image 2024-05-21 at 21 39 27](https://github.com/Projeto-unifacs/Projeto-de-MeM-/assets/167437566/6c5e587b-7a4c-49bd-8b7d-b875eb2a6fb4)
 # **Interface feita no Canva**
 
-![Print 2](https://github.com/Projeto-unifacs/Projeto-de-MeM-/assets/167437566/e42d3e26-6682-49f2-a337-6edbeed56bd7)
+![Print 2](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpcOgOyDhbSbTnVyuXLab%2Fuploads%2FCzetJ5TYfDjw5IplHVto%2FTela%201.png?alt=media&token=34b924f0-54df-410f-ab84-0cad31b91f56)
 
 
 
